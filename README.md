@@ -1,2 +1,4 @@
 # LeapYears
-Project 5 from my Programming Concepts class during the Spring 2016 semester.
+
+This program reads an integer value from the user, representing a year,
+and determines if the year is a leap year in the Gregorian calendar.
